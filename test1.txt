@@ -1,1 +1,2 @@
-this is my text file created in git repo and testing for feature branch
+this is my text file created in git repo and testing for feature 
+a+b+c=d
